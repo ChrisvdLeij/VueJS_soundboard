@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Dit is een paard die een geluidje maakt",
+    "url": "assets/sounds/horse.mp3",
+    "image": "assets/images/horse.png"
+  },
+  {
+    "title": "Dit is een kat die een geluidje maakt",
+    "url": "assets/sounds/cat.mp3",
+    "image": "assets/images/cat.png"
+  },
+  {
+    "title": "Dit is een kalkoen die een geluidje maakt",
+    "url": "assets/sounds/turkey.mp3",
+    "image": "assets/images/turkey.png"
+  },
+  {
+    "title": "Dit is een dino die een geluidje maakt",
+    "url": "assets/sounds/dinosaur.mp3",
+    "image": "assets/images/dinosaur.png"
+  }
+]

@@ -1,0 +1,11 @@
+.sound-list {
+  margin: .5rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@media screen and (max-width: 480px) {
+  .sound-list {
+    flex-direction: column;
+  }
+}

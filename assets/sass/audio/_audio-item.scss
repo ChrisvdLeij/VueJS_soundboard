@@ -1,0 +1,22 @@
+.audio-item {
+  flex: 1;
+  border: 0;
+  margin: .5rem;
+  padding: .5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: .5rem;
+  background: rgb(255, 255, 255);
+  justify-content: flex-end;
+}
+
+@media screen and (min-width: 481px) and (max-width: 800px) {
+  .audio-item {
+    flex: 1 calc(50% - 1rem);
+  }
+}
+
+.audio-item:hover {
+  cursor: pointer;
+}
