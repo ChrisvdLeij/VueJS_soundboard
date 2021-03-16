@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "soundboardvuejs",
   "dependencies": {
     "npm": "^6.4.1",
     "vue": "^2.5.18",
